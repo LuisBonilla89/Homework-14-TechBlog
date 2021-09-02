@@ -23,7 +23,7 @@ For this app, is neccesary to execute the following steps:
 - Install npm dependencies
 - Create MySQL database
 
-## Deployment
+## Deployments
 
 ### Github Repository
 
