@@ -10,6 +10,8 @@ This project uses Handlebars.js as the templating language, Sequelize as the ORM
 
 The following image depicts the web application's appearance and functionality:
 
+![App screenshot](./public/assets/homePage.png)
+
 ## Installation
 
 For this app, is neccesary to execute the following steps:
